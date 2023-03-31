@@ -1,6 +1,6 @@
 Name:		texlive-latex-base-dev
 Version:	64899
-Release:	1
+Release:	2
 Summary:	Development pre-release of the LaTeX kernel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-base-dev
